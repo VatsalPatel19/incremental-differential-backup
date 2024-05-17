@@ -9,6 +9,7 @@ Usage
 Clone the repository:
 
 git clone https://github.com/username/repository.git
+
 Change directory to the repository:
 
 cd repository
